@@ -62,29 +62,30 @@ Show Image
 </div>
 🚀 Projects
 <div align="center">
-<a href="https://github.com/kaushlendraghosh/chatting-out">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushlendraghosh&repo=chatting-out&theme=tokyonight&hide_border=true" alt="Chatting-out Repo" />
-</a>
-<a href="https://github.com/kaushlendraghosh/ai-career-coach">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushlendraghosh&repo=ai-career-coach&theme=tokyonight&hide_border=true" alt="AI Career Coach Repo" />
-</a>
-</div>
 💬 Chatting-out
+<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/Socket.IO-Real--time-blue?style=for-the-badge&logo=socket.io" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live"/>
 A real-time messaging application built with the MERN stack and Socket.IO.
 
-Real-time messaging using WebSockets
-JWT authentication for secure user sessions
-Mobile-friendly UI with Tailwind CSS
-1-on-1 chat functionality with online status indicators
+⚡ Real-time messaging using WebSockets
+🔒 JWT authentication for secure user sessions
+📱 Mobile-friendly UI with Tailwind CSS
+👤 1-on-1 chat functionality with online status indicators
+🌐 Live Demo
 
 🤖 AI Career Coach
+<img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" alt="Next.js"/>
+<img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge" alt="AI-Powered"/>
+<img src="https://img.shields.io/badge/Prisma-ORM-blue?style=for-the-badge&logo=prisma" alt="Prisma"/>
 Full-Stack AI Career Coach application built with Next.js 15.
 
-User authentication and real-time data processing with Inngest
-Database using NeonDB and Prisma ORM
-Gemini API integration for personalized AI career insights
-Resume Builder, Cover Letter Generator, and Weekly Career Insights
+🔐 User authentication and real-time data processing with Inngest
+💾 Database using NeonDB and Prisma ORM
+🧠 Gemini API integration for personalized AI career insights
+📄 Resume Builder, Cover Letter Generator, and Weekly Career Insights
 
+</div>
 🔥 Achievements & Coding Journey
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaushlendraghosh&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -132,3 +133,4 @@ Cloud computing and deployment strategies
 <div align="center">
 Thanks for visiting my profile! Have a great day! 😄
 </div>
+
