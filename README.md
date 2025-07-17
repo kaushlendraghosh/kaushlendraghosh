@@ -143,7 +143,7 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
   </a>
   
 </div>
-<div>
+<div align="center">
   <a href="https://leetcode.com/u/tikamgarh_coder/">
     <img src="https://leetcard.jacoblin.cool/tikamgarh_coder?theme=dark&font=baloo" alt="LeetCode Stats"/>
   </a>
