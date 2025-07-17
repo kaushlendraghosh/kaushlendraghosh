@@ -81,7 +81,7 @@ A real-time messaging application built with the MERN stack and Socket.IO.
 🔒 JWT authentication for secure user sessions  
 📱 Mobile-friendly UI with Tailwind CSS  
 👤 1-on-1 chat functionality with online status indicators  
-🌐 [Live Demo](your-demo-link)
+🌐 [Live Demo](https://chatapp-kaushlendra.onrender.com)
 
 ### 💼 Job Portal App
 <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" alt="MERN Stack"/>
