@@ -142,7 +142,7 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
     <img src="https://img.shields.io/badge/CodeChef-3%20Star%20(1611)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="https://leetcode.com/u/tikamgarh_coder/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=tikamgarh_coder&theme=dark" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/tikamgarh_coder?theme=dark&font=baloo" alt="LeetCode Stats"/>
   </a>
 </div>
 
