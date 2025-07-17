@@ -54,29 +54,15 @@
 
 </div>
 
-## 📊 GitHub Stats & Activity
-
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaushlendraghosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
 </div>
 
-### 🔥 Streak Statistics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushlendraghosh&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-### 📈 Commit & Contribution Metrics
-<div align="center">
-  
-| 📊 **Metric** | 🔢 **Value** |
-|:---:|:---:|
-| 🔥 **Current Streak** | ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushlendraghosh&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=1&hide_total_contributions=true&hide_longest_streak=true) |
-| 🏆 **Longest Streak** | ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushlendraghosh&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=1&hide_total_contributions=true&hide_current_streak=true) |
-| 💻 **Total Commits** | ![Total Commits](https://github-readme-stats.vercel.app/api?username=kaushlendraghosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&card_width=1&hide_stars=true&hide_rank=true&show_only=commits) |
-
-</div>
-
-### 🌟 Language Distribution
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushlendraghosh&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
 </div>
@@ -162,6 +148,7 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
     <img src="https://leetcard.jacoblin.cool/tikamgarh_coder?theme=dark&font=baloo" alt="LeetCode Stats"/>
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushlendraghosh&color=blueviolet&style=flat-square" alt="Profile views" />
