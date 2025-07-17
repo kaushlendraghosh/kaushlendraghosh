@@ -109,9 +109,9 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
 ### 🏆 Competitive Programming
 | Platform | Handle | Rating | Achievements |
 |----------|--------|--------|--------------|
-| Codeforces | tikamgarh_coder | 1211 (Pupil) | Solved 500+ problems |
+| Codeforces | tikamgarh_coder | 1211 (Pupil) | Solved 250+ problems |
 | CodeChef | singhkaushlen3 | 1611 (3⭐) | Ranked 127th in Starters 105 Div4 |
-| LeetCode | tikamgarh_coder | - | Solved 200+ problems |
+| LeetCode | tikamgarh_coder | 1719 | Solved 450+ problems |
 
 ### 🚀 Problem Solving
 - Solved 1000+ problems across platforms
