@@ -143,9 +143,7 @@ Full-Stack job portal application built with React, Express.js, Node.js, and Mon
   </a>
 </div>
 
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=tikamgarh_coder&theme=dark" alt="LeetCode Stats" />
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushlendraghosh&color=blueviolet&style=flat-square" alt="Profile views" />
